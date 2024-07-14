@@ -1,5 +1,12 @@
 YouTube Video Streaming App
-This is a React application that allows users to search for YouTube videos and watch them directly on the site. The application features a sidebar, search functionality, and a video player modal.
+This is a React application that allows users to search for YouTube videos and watch them directly on the site. The application features a sidebar, search functionality, and a video player.
+
+![image](https://github.com/user-attachments/assets/bdab4921-d2a7-456b-aa8a-ed63d4aa1a07)
+![image](https://github.com/user-attachments/assets/52dc5218-aac0-46e9-beb3-eb0f5a0795d0)
+![image](https://github.com/user-attachments/assets/531c9c56-1841-4427-a4ba-a30ad0819cdd)
+
+
+
 
 Features
 Search YouTube Videos: Users can search for YouTube videos using the search bar.
